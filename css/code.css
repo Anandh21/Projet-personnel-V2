@@ -1,5 +1,53 @@
-#header{
-    
-    height: 500px;
+*{box-sizing: border-box;}
+
+img{
     width: 100%;
+    height: auto;
+}
+/* header */
+header{
+    background:black;
+    
+}
+
+#bgslider{
+    top:0;
+    background-image: url(../image/background1.jpg);
+    background-position: left center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 0;
+    height: 500px;
+}
+.mediasocial img{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 9px;
+    position: relative;
+    z-index: 20;
+}
+.overlay{
+    position: absolute;
+    overflow: hidden;
+    width: 30px;
+    height: 30px;
+    transition:.5s ease;
+}
+.mediasocial:hover .overlay{
+    width:500px;
+}
+
+.text {
+    color:white;
+    font-size: 20px;
+    position: absolute;
+    top:10%;
+    left:10%;
+    -webkit-transform: translateX(-20%);
+    -ms-transform: translateX(-20%);
+    transform: translateX(50%);
+    white-space : nowrap;   
+    
+    
 }
