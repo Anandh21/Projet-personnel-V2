@@ -8,14 +8,14 @@ $(function() {
     bgslider.css('background-image','url(' + images[0] + ')');
     setInterval(function (){
 
-        bgslider.fadeOut(400,function() {
+        bgslider.fadeOut(200,function() {
             
             $(this).css('background-image', 'url(' + images[i] + ')');
-        }).fadeIn(400);
+        }).fadeIn(200);
         i++;
         if(i == images.length){
             i = 0;
         }
-    },15000);
+    },5000);
 
 })
