@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <title>dev web</title>
@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/reset.css" type="text/css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/code.css">
 </head>
 
@@ -41,7 +41,7 @@
             </div>
         </div>
     </header>
-    <div >
+    <div>
         <div id="navbar" class="row align-items-sm-center justify-content-sm-between">
             <div class="col-sm-1">
                 <a href="">Acceuil</a>
@@ -63,6 +63,57 @@
             </div>
         </div>
     </div>
+
+    <!--Contenu -->
+    <main>
+        <!-- Parcours -->
+        <div>
+            <section class="timeline">
+                <div class="bloc left">
+                    <div class="content">
+                        <h3>avril 2019</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                            Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                            quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                        </p>
+                    </div>
+                </div>
+
+                <div class="bloc right">
+                    <div class="content">
+                        <h3>avril 2019</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                            Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                            quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                        </p>
+                    </div>
+                </div>
+
+                <div class="bloc left">
+                    <div class="content">
+                        <h3>avril 2019</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                            Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                            quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                        </p>
+                    </div>
+                </div>
+
+                <div class="bloc right">
+                    <div class="content">
+                        <h3>avril 2019</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                            Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                            quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                        </p>
+                    </div>
+                </div>
+
+
+            </section>
+        </div>
+
+    </main>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src=" https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
