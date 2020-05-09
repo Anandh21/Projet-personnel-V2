@@ -14,8 +14,6 @@
 </head>
 
 <body>
-
-
     <header class="container-fluid">
         <div id="header" class="row">
             <div class="col-sm-6 d-flex align-items-center">
@@ -41,8 +39,9 @@
             </div>
         </div>
     </header>
+
     <div>
-        <div id="navbar" class="row align-items-sm-center justify-content-sm-between">
+        <div id="navbar" class="row align-items-sm-center justify-content-sm-between ">
             <div class="col-sm-1">
                 <a href="">Acceuil</a>
             </div>
@@ -112,13 +111,28 @@
 
             </section>
         </div>
-
+<div>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+        Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+        quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+    </p>   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+        Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+        quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+    </p>   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+        Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+        quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+    </p>   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+        Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+        quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+    </p>
+</div>
     </main>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src=" https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="script/jquery.sticky.js"></script>
     <script src="script/scripts.js"></script>
 </body>
 
