@@ -22,13 +22,15 @@
                         <li class="mediasocial pb-5">
                             <div class="overlay">
                                 <img src="image/icon/linkedin.png" alt="linkedin">
-                                <p class="text">linkedin.fr</p>
+                                <p class="text">
+                                    <a href="https://www.linkedin.com/in/anandh-aroumougame/" target="_blank">Linkedin</a>
+                                </p>
                             </div>
                         </li>
                         <li class="mediasocial pt-5">
                             <div class="overlay">
                                 <img src="image/icon/instagram.png" alt="instagram">
-                                <p class="text">instagram</p>
+                                <p class="text"><a href="https://www.instagram.com/pyno21/?hl=fr" target="_blank">Instagram</a></p>
                             </div>
                         </li>
                     </ul>
@@ -111,21 +113,24 @@
 
             </section>
         </div>
-<div>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-        Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-        quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
-    </p>   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-        Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-        quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
-    </p>   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-        Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-        quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
-    </p>   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-        Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-        quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
-    </p>
-</div>
+        <div>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+        </div>
     </main>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

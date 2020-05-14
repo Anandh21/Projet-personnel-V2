@@ -99,7 +99,7 @@ img{
 
 /* cercle de la timeline */
 
-.bloc::after{
+/*.bloc::after{
     content:'';
     position: absolute;
     width: 25px;
@@ -110,7 +110,7 @@ img{
     top:15px;
     border-radius: 50%;
     z-index:1;
-}
+}*/
 
 .right::after{
     left: -13px;
