@@ -2,7 +2,7 @@
 <html lang="fr">
 
 <head>
-    <title>dev web</title>
+    <title>V2</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -67,12 +67,32 @@
 
     <!--Contenu -->
     <main>
+
+        <div id="profilText">
+            <p>
+                Dans le cadre d'une reconversion professionnelle, Je souhaiterai m'orienter vers le monde de l'informatique. C'est dans ce but que je me suis tourner vers Web force 3.
+                J'ai suivi la formation de développement web et web mobile. Cela m'a permis d'apprendre:
+            </p>
+            <ul>
+                <li>
+                    Intégration Web : HTML5, CSS3, Bootstrap, Responsive web design, Mobile, Accessibilité, Typographie, positionnement, sélecteurs
+                </li>
+                <li>
+                    Développement Web : JavaScript, Angular, Ionic, développement PHP, base de donnée MYSQL, WordPress, Symfony.
+                </li>
+            </ul>
+            <p>
+                Aprés la formation, j'ai eu l'occasion de faire un stage chez Sherpaa en tant que développeur Full-Stack. J'ai pu approfondir mes connaisances sur les différents languages suivants: HTML, CSS, JavaScript, PHP. </p>
+
+
+        </div>
         <!-- Parcours -->
         <div>
             <section class="timeline">
                 <div class="bloc left">
                     <div class="content">
-                        <h3>avril 2019</h3>
+                        <p class="titre1"><span> Sherpaa</span>, Développeur Full-Stack, stage</p>
+                        <h5>Septembre et octobre 2019</h5>
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                             Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
                             quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
