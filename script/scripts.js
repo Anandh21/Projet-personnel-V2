@@ -16,7 +16,7 @@ $(function() {
             $(this).css('background-image', 'url(' + images[i] + ')');
         }).fadeIn(200);
         i++;
-        if(i == images.length){
+        if(i === images.length){
             i = 0;
         }
     },5000);

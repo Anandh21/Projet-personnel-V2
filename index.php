@@ -92,11 +92,21 @@
                 <div class="ancre">
                     <div class="bloc left is-left">
                         <div class="content">
-                            <p class="titre1"><span> Sherpaa</span>, Développeur Full-Stack, stage</p>
+                            <h4><span class=" NomEntreprise"> Sherpaa</span>, Développeur Full-Stack, stage</h4>
                             <h5>Septembre et octobre 2019</h5>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-                                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                            <p>
+                                69009 Lyon, FRANCE <br><br>
+                                Participation à la conception du site web HORIZON, un service d’assistance administrative à destination des particuliers.
+                                <ul>
+                                    <li>
+                                        Front end : réalisation de l’interface du site web
+                                    </li>
+                                    <li>
+                                        Back-end : création et gestion de la base de données, développement du CRUD
+                                    </li>
+                                </ul>
+
+
                             </p>
                         </div>
                     </div>
@@ -104,34 +114,86 @@
                 <div class="ancre">
                     <div class="bloc right is-right">
                         <div class="content">
-                            <h3>avril 2019</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-                                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                            <h4><Span class="NomEntreprise">WebForce 3</Span>, Développeur Web et Web Mobile</h4>
+                            <h5>Avril 2019 - Août 2019</h5>
+                            <p>69009 Lyon, FRANCE
+                                <br><br>
+
+                                Le développeur web et web mobile réalise la mise en page de sites web et d’applications smartphone,
+                                il y intègre des contenus textuels, visuels et sonores en prenant en compte le référencement, l’accessibilité web et l’ergonomie.
+                                Le développeur web conçoit et développe les fonctionnalités de sites web et de bases de données.
                             </p>
+
                         </div>
                     </div>
                 </div>
-
-                <div class="bloc left is-left">
-                    <div class="content">
-                        <h3>avril 2019</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                            Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-                            quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
-                        </p>
-                    </div>
-                </div>
-
-                <div class="bloc right is-right">
+                <div class="ancre">
+                    <div class="bloc left is-left">
                         <div class="content">
-                            <h3>avril 2019</h3>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-                                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                            <h4> <span class="NomEntreprise"> Carrefour</span>, Équipier de vente, CDI </h4>
+                            <h5>Novembre 2015 - Octobre 2019</h5>
+
+                            <p>
+                                69200 Vénissieux,FRANCE
+                                <br><br>
+                                Mise en rayon des produits au rayon boissons puis au rayon produits en libre-service.
+                            <ul>
+                                <li>
+                                    Retrait des produits en dates courtes
+                                </li>
+                                <li>
+                                    Gestion d’un rayon
+                                </li>
+                                <li>
+                                    Installation des promotions, contrôles des prix
+                                </li>
+                            </ul>
                             </p>
                         </div>
                     </div>
+
+                </div>
+                <div class="ancre">
+                    <div class="bloc right is-right">
+                        <div class="content">
+                            <h4><Span class="NomEntreprise">McDonald's</Span>,Manager Opérationel, CDI</h4>
+                            <h5>Aout 2012 - Juillet 2015</h5>
+                            <p>
+                                95800 Cergy, FRANCE
+                                <br><br>
+                                Ouverture d’un nouveau restaurant avec système de préparation à la commande
+                                <ul>
+                                <li>
+                                	Formation des nouveaux équipiers aux procédures
+                                </li>
+                                <li>
+                                	Conquête d’un nouveau marché
+                                </li>
+                                </ul>
+                                Responsable de quart
+                                <ul>
+                                <li>
+                                Assurer la qualité des produits, du service et de la satisfaction client
+                                </li>
+                                <li>
+                                Gestion des stocks et pertes
+                                </li>
+                            </ul>
+                                Responsable de la sécurité
+                                <ul>
+                                    <li>
+                                    Respect des procédures d’hygiène et de sécurité
+                                    </li>
+                                    <li>
+                                    Application des procédures McDonald’s (plan HACCP)
+                                    </li>
+                                </ul>
+                            </p>
+
+                        </div>
+
+                    </div>
+                </div>
 
 
 
