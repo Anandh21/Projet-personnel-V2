@@ -16,12 +16,12 @@ img{
     height: 40px;
     width: 100%;
     font-size: 20px;
-    background: darkgray;
+    background: black;
     margin-left: 0px;
 }
 
 #navbar a{
-    color: white;
+    color: darkorange;
 }
 
 /* header */
@@ -86,6 +86,7 @@ img{
     color: red;
     margin: 0 20px;
 }
+
 /* timeline */
 .timeline{
     position: relative;
@@ -95,7 +96,7 @@ img{
     content:'';
     position: absolute;
     width: 6px;
-    background-color: green;
+    background-color: dimgrey;
     top:0;
     bottom: 0;
     left:50%;
@@ -128,7 +129,7 @@ img{
     right: 25px;
     border: medium solid black;
     border-width: 10px 0 10px 10px;
-    border-color:transparent transparent transparent violet;
+    border-color:transparent transparent transparent darkorange;
 }
 
 .right::before{
@@ -139,10 +140,11 @@ img{
     width: 0;
     z-index: 1;
     left: 25px;
-    border:medium solid white;
+    border:medium solid ;
     border-width: 10px 10px 10px 0;
-    border-color:transparent violet transparent transparent;
+    border-color:transparent darkorange transparent transparent;
 }
+
 @media screen and (max-width: 600px){
     .timeline::after{
         left: 31px;
@@ -164,16 +166,25 @@ img{
         left:0;
     }
 }
-.titre1 {
-    
-    font-size: 1.5em;
-    margin-bottom: 5px;
-}
-.titre1 span{
-    color: red;
-}
+
+
 
 main {
     padding-top: 30px;
+    background-color: #FCF8EF ;
 }
 
+/* text timeline */
+.NomEntreprise{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.content li::before{
+    content: "•";
+    margin: 0 10px;
+}
+.content p {
+    margin-block-end: inherit;
+}
