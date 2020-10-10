@@ -70,7 +70,7 @@
 
         <div id="profilText">
             <p>
-                Dans le cadre d'une reconversion professionnelle, Je souhaiterai m'orienter vers le monde de l'informatique. C'est dans ce but que je me suis tourner vers Web force 3.
+                Dans le cadre d'une reconversion professionnelle, Je souhaiterais m'orienter vers le monde de l'informatique. C'est dans ce but que je me suis tourner vers Web force 3.
                 J'ai suivi la formation de développement web et web mobile. Cela m'a permis d'apprendre:
             </p>
             <ul>
@@ -89,18 +89,31 @@
         <!-- Parcours -->
         <div>
             <section class="timeline">
-                <div class="bloc left">
-                    <div class="content">
-                        <p class="titre1"><span> Sherpaa</span>, Développeur Full-Stack, stage</p>
-                        <h5>Septembre et octobre 2019</h5>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                            Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-                            quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
-                        </p>
+                <div class="ancre">
+                    <div class="bloc left is-left">
+                        <div class="content">
+                            <p class="titre1"><span> Sherpaa</span>, Développeur Full-Stack, stage</p>
+                            <h5>Septembre et octobre 2019</h5>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ancre">
+                    <div class="bloc right is-right">
+                        <div class="content">
+                            <h3>avril 2019</h3>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                            </p>
+                        </div>
                     </div>
                 </div>
 
-                <div class="bloc right">
+                <div class="bloc left is-left">
                     <div class="content">
                         <h3>avril 2019</h3>
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -110,28 +123,21 @@
                     </div>
                 </div>
 
-                <div class="bloc left">
-                    <div class="content">
-                        <h3>avril 2019</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                            Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-                            quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
-                        </p>
+                <div class="bloc right is-right">
+                        <div class="content">
+                            <h3>avril 2019</h3>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+                            </p>
+                        </div>
                     </div>
-                </div>
 
-                <div class="bloc right">
-                    <div class="content">
-                        <h3>avril 2019</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                            Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
-                            quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
-                        </p>
-                    </div>
-                </div>
+
 
 
             </section>
+
         </div>
         <div>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -151,10 +157,66 @@
                 quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
             </p>
         </div>
+        <div>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+        </div>
+        <div>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+        </div>
+        <div>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Quos sequi cumque velit unde atque deleniti. Delectus sint accusantium nulla laudantium
+                quis, autem dolorum est iure, repellat enim deleniti quibusdam eveniet?
+            </p>
+        </div>
+
     </main>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src=" https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="script/jquery.sticky.js"></script>
